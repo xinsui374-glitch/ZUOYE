@@ -1,0 +1,7 @@
+{
+  "name": "Liquid Glass Hand Tracker",
+  "description": "Interactive fluid simulation using hand tracking. Gestures distort the video feed like viscous liquid or glass.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
